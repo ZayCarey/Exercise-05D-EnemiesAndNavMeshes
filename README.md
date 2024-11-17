@@ -2,6 +2,10 @@
 
 
 ## Implementation
+Added Music,
+Made enemy model,
+Made one enemy able to teleport through walls,
+Made the lights different colors,
 
 ## References
 
